@@ -1,0 +1,2 @@
+# EmailSignatures
+HTML Email signatures
